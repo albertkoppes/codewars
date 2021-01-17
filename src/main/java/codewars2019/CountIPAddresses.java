@@ -2,6 +2,9 @@ package codewars2019;
 
 public class CountIPAddresses
 {
+    private CountIPAddresses()
+    {
+    }
 
     public static long ipsBetween(String start, String end)
     {
