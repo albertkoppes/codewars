@@ -1,4 +1,4 @@
-package codewars_2020;
+package codewars2020;
 
 public class HumanReadableTime
 {

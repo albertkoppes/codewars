@@ -1,4 +1,4 @@
-package codewars_2020;
+package codewars2020;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
